@@ -14,7 +14,7 @@ Key Highlights
 • For Commuters: Helps students, workers, seniors, PWDs, and tourists save time and money through route optimization, smart fare estimation, and accessibility assistance.
 • For Drivers: Provides PUV drivers and operators with real-time insights to optimize routes and maximize daily efficiency.
 
-🔗 **[figma.com/proto/F9m7niUi9HRfTPgWzFyDne/SeatSync--Duplicated-?node-id=241-133&p=f&t=UFqjOGc0SsCro3Qa-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=253%3A167]**
+🔗 **[https://www.figma.com/proto/F9m7niUi9HRfTPgWzFyDne/SeatSync--Duplicated-?node-id=253-236&starting-point-node-id=253%3A167]**
 
 
 ### 2. AI Diet Consultant
